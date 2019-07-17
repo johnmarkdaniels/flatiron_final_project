@@ -1,1 +1,15 @@
-This wildlife classification project will allow pictures of common, large animals from the state of Oregon to be automatically identified from photos. Conservation organizations as well as the Oregon Department of Fish and Wildlife may use this system to classify images captured by game cameras, hunters, and wildlife enthusiasts to assess wildlife populations within the state.
+Use Case
+	This wildlife classification project will allow pictures of common, large animals from the state of Oregon to be automatically identified from photos. Conservation organizations as well as the Oregon Department of Fish and Wildlife may use this system to classify images captured by game cameras, hunters, and wildlife enthusiasts to assess wildlife populations within the state.
+
+Three Problems
+	Getting Model(s) Running (some sort of problem with data including figuring out H5 file)
+	Scaling up from two animals to all 20
+	Best Visualizations for this type
+
+Schedule
+	Wed-Fri	Create and validate model(s)
+	
+	M-W Refine model(s)
+	Th-F Create presentation drafts and visualizations
+
+	M-W Polish and Practice
