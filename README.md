@@ -4,11 +4,11 @@
 ### J. Mark Daniels
 
 ### Summary
-This project utilizes Kaggle Dataset of over 14 thousand images of Oregon Wildlife to build and test three neural networks to categorize wildlife images into their proper categories by species. One model is a basic Convolutional Neural Network working with two classes. The second model used Inception v3 to classify two classes, and the last used Inception v3 again on the complete dataset of 20 classes.  
+This project utilizes a Kaggle Dataset of over 14 thousand images of Oregon Wildlife to build and test three neural networks to categorize wildlife images into their proper categories by species. One model is a basic Convolutional Neural Network working with two classes. The second model used Inception v3 to classify two classes, and the last used Inception v3 again on the complete dataset of 20 classes.  
 
 ## Business Understanding
 ### Problem Definition
-This project creates a neural network capable of classifying images of wildlife commonly found in the state of Oregon to enable Department of Fish and Wildlife, citizens, conservationists, and wildlife biologists to compile a database of wildlife sightings. A second neural network enables further refinement capabilities focusing a single species as opposed to the 20 classes included in the multi-class model.
+This project creates a neural network capable of classifying images of wildlife commonly found in the state of Oregon to enable Department of Fish and Wildlife, citizens, conservationists, and wildlife biologists to compile a database of wildlife sightings. A second neural network enables further refinement capabilities focusing on a single species as opposed to the 20 classes included in the multi-class model.
 
 ### Success/Evaluation Criteria
 This project will be deemed successful if the models can outperform random chance when classifying images. Further comparison was obtained by measuring accuracy and F1 scores. 
