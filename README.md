@@ -1,4 +1,4 @@
-# Final Project
+# Oregon Wildlife Image Classification
 ## Flatiron School - DC
 ## Immersive Data Science Bootcamp
 ### J. Mark Daniels
